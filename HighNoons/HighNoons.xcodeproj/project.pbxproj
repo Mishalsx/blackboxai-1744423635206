@@ -1,0 +1,42 @@
+// !$*UTF8*$!
+// 
+// Project file format 1.0
+// 
+// !PBXProject
+// {
+    archiveVersion = 1;
+    classes = {};
+    objectVersion = 46;
+    objects = {
+        // PBXBuildFile section
+        /* Begin PBXBuildFile section */
+        /* End PBXBuildFile section */
+        
+        // PBXFileReference section
+        /* Begin PBXFileReference section */
+        /* End PBXFileReference section */
+        
+        // PBXGroup section
+        /* Begin PBXGroup section */
+        /* End PBXGroup section */
+        
+        // PBXNativeTarget section
+        /* Begin PBXNativeTarget section */
+        /* End PBXNativeTarget section */
+        
+        // PBXProject section
+        /* Begin PBXProject section */
+        /* End PBXProject section */
+        
+        // PBXTargetDependency section
+        /* Begin PBXTargetDependency section */
+        /* End PBXTargetDependency section */
+        
+        // PBXVariantGroup section
+        /* Begin PBXVariantGroup section */
+        /* End PBXVariantGroup section */
+    };
+    rootObject = 1;
+}
+// 
+// End of file
