@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme version="1.3">
+    <BuildAction>
+        <BuildActionEntries>
+            <BuildActionEntry>
+                <BuildableReference>
+                    <BlueprintIdentifier>YOUR_BLUEPRINT_ID</BlueprintIdentifier>
+                    <BuildableName>HighNoons</BuildableName>
+                    <BlueprintName>HighNoons</BlueprintName>
+                </BuildableReference>
+            </BuildActionEntry>
+        </BuildActionEntries>
+    </BuildAction>
+    <TestAction>
+        <TestActionEntries>
+            <TestActionEntry>
+                <BuildableReference>
+                    <BlueprintIdentifier>YOUR_BLUEPRINT_ID</BlueprintIdentifier>
+                    <BuildableName>HighNoons</BuildableName>
+                    <BlueprintName>HighNoons</BlueprintName>
+                </BuildableReference>
+            </TestActionEntry>
+        </TestActionEntries>
+    </TestAction>
+</Scheme>
